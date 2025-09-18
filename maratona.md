@@ -11,3 +11,7 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] Five Nigths at Freddy
 - [ ] Sonic
+- [ ] Duna
+- [ ] Maze Runner
+- [ ] Demon Slayer
+- [ ] Jujustsu kaisen 0
