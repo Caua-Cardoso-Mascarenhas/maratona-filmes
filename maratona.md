@@ -15,3 +15,7 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] D&D A honra dos ladrões
 - [ ] Jumanji
 - [ ] Detetive Pokemom
+- [ ] Duna
+- [ ] Maze Runner
+- [ ] Demon Slayer
+- [ ] Jujustsu kaisen 0
