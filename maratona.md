@@ -11,3 +11,7 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] Five Nigths at Freddy
 - [ ] Sonic
+- [ ] Star Wars
+- [ ] D&D A honra dos ladrões
+- [ ] Jumanji
+- [ ] Detetive Pokemom
